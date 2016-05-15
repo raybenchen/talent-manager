@@ -1,6 +1,6 @@
 # Talent Manager
 
-Three ways to deploy this application:
+Three ways to deploy this application: 
 
 Option 1: Click the button below
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
